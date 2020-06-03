@@ -3,12 +3,12 @@ author: Benjamin Hong
 email: bhong@ebnet.org
 description: > # this means to ignore newlines until "baseurl:"
   This website was created for Mr. Cohen's AP Computer Science A class.
-theme: minima
+theme: jekyll-theme-dinky
 
 # social links
 instagram_username: dun_dun_dunnnnnnn
 twitter_username: aziatka8 # DO NOT include the @ character, or else the build will fail!
-discord_tag: printer#3637
+discord_username: printer#3637
 github_username:  bhong8989 # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
