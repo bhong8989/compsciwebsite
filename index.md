@@ -1,8 +1,4 @@
-## Welcome to Ben's Website
-
-This website was made for Mr. Cohen's AP Computer Science A class.
-
-I hope you like it!
+This website was made for Mr. Cohen's AP Computer Science A class. I hope you like it!
 
 ### Introduction
 
