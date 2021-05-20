@@ -18,7 +18,7 @@
 **Discord:** printer#3637
 
 ### Bragsheet
-  1. Vice President of Science Bowl
+  1. President of Science Bowl
   2. NJ Chemistry II League
   3. EB Varsity Swim Team
 
